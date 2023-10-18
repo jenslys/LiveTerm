@@ -1,15 +1,15 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/jenslys/jenslys/master/README.md",
+  "title": "Lystad",
+  "name": "Jens Lystad",
+  "ascii": "lystad",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "jenslys",
+    "linkedin": "lystad"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
+  "email": "hey@lystad.io",
+  "ps1_hostname": "portfolio",
+  "ps1_username": "lystad",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
@@ -27,13 +27,13 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
+      "background": "#282A36",
+      "foreground": "#F8F8F2",
+      "yellow": "#F1FA8C",
+      "green": "#50FA7B",
       "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "blue": "#8BE9FD",
+      "red": "#FF5555"
     }
   }
 }
